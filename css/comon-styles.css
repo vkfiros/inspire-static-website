@@ -96,7 +96,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* Home section */
 .home{
-	height: 500px;
+	height: 680px;
 	
 }
 .head-row{
@@ -491,7 +491,7 @@ form:valid button:focus.show-outline {
 }
 .main-head{
 	font-size:2.2rem;
-	 margin-top: 22%;
+	 margin-top: 48%;
 }
 .main-head-2{
 	    font-size: 2rem;
